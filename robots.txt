@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joginderverma.github.io/portfolio/sitemap.xml
