@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="62" viewBox="0 0 62 62">
+  <g id="HowitWorksplayBtn" transform="translate(-1021 -5089.837)">
+    <g id="Ellipse_211" data-name="Ellipse 211" transform="translate(1021 5089.837)" fill="#fff" stroke="#034ea2" stroke-width="10" opacity="0.2">
+      <circle cx="31" cy="31" r="31" stroke="none"/>
+      <circle cx="31" cy="31" r="26" fill="none"/>
+    </g>
+    <g id="play-button" transform="translate(1030 5098.837)">
+      <g id="Group_2067" data-name="Group 2067">
+        <path id="Path_2723" data-name="Path 2723" d="M21.658,0A21.658,21.658,0,1,0,43.316,21.658,21.682,21.682,0,0,0,21.658,0Zm8.61,22.417L17.634,30.538a.9.9,0,0,1-1.391-.759V13.536a.9.9,0,0,1,1.391-.759L30.268,20.9a.9.9,0,0,1,0,1.518Z" fill="#034ea2"/>
+      </g>
+    </g>
+  </g>
+</svg>

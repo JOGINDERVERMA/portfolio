@@ -1,0 +1,21 @@
+.scroll-top-bar {
+    position: fixed;
+    top: 70px;
+    width: 100%;
+    z-index: 3333333333333333333;
+  }
+  
+  .progress-container {
+    background: transparent;
+    height: 10px;
+    width: 100%;
+  }
+  
+  .scroll-top-bar .progress-bar {
+    background-color: #d8fe35;
+    border-radius: 30px;
+    height: 2px;
+    width: 0%;
+  }
+  
+ 
